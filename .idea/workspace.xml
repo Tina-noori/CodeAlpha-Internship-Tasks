@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90eb3ad2-5504-4023-8405-c2e4de3c7d05" name="Changes" comment="" />
+    <list default="true" id="90eb3ad2-5504-4023-8405-c2e4de3c7d05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/README.md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1_Hangman_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Task1_Hangman_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/hangman_words.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +37,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Task1_Hangman_Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Python\Documents\GitHub\CodeAlpha-Internship-Tasks\Task1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
