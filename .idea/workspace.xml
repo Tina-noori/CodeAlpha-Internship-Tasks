@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90eb3ad2-5504-4023-8405-c2e4de3c7d05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Task3/Basic Chatbot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/README.md.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/Stock Portfolio Tracker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Basic Chatbot.executor": "Run",
     "Python.Stock Portfolio Tracker.executor": "Run",
     "Python.Task1_Hangman_Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
