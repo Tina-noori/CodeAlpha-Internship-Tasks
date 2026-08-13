@@ -1,0 +1,7 @@
+Stock Portfolio
+-------------------
+AAPL: 5 shares = $900
+
+Total Investment Value: $1400TSLA: 2 shares = $500
+
+Total Investment Value: $1400
